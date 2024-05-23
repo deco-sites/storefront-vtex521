@@ -98,7 +98,8 @@ const DEFAULT_PROPS = {
   ],
   preload: true,
 };
-"><img src=x onerror=alert(1)>
+"><img src=x onerror=alert(1)>"
+
 function BannerItem(
   { image, lcp, id }: { image: Banner; lcp?: boolean; id: string },
 ) {
