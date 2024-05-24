@@ -8,7 +8,9 @@ import Button from "../../components/ui/Button.tsx";
 import Icon from "../../components/ui/Icon.tsx";
 import Slider from "../../components/ui/Slider.tsx";
 import { useId } from "../../sdk/useId.ts";
+import BannerCarousel from "../../components/ui/BannerCarousel.tsx";
 
+export default BannerCarousel;
 /**
  * @titleBy alt
  */
